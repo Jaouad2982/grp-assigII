@@ -1,3 +1,5 @@
+package firstTask;
+
 public class Square implements Shape{
     private double side ;
 
